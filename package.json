@@ -1,9 +1,9 @@
 {
     "name": "yellowdarkness",
-    "displayName": "YellowDarkness",
+    "displayName": "Yellow Darkness",
     "publisher": "TheFalkeD",
     "description": "theme color yellow dark",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.46.0"
     },
